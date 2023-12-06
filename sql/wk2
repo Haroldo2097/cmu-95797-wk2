@@ -1,0 +1,3 @@
+dbt init
+python3 -m venv .dbtenv
+
